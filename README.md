@@ -102,8 +102,6 @@ The dashboard is built using Power BI and provides actionable insights to help i
 ---
 
 ## 👤 Author
-
-Your Name  
 Mohit 
 
 ---
